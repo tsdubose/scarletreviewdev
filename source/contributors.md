@@ -4,7 +4,7 @@ title: Contributors
 ## Aisha Bilal
 *Smells like Home*
 
-I love it here at Rutgers-Camden.
+My name is Aisha Bilal. I am a Biology major for the class of 2020. I am an advocate for environmental justice, believing it's essential to protect our planet's biodiversity for the welfare of all lifeforms. I am especially grateful for my friends, family, faith (Islam), and the natural world.
 
 ## Kathrine Christy
 *Ulysses in Hell*
@@ -54,7 +54,7 @@ English Major - Class of 2017
 
 Samantha Procida is a senior majoring in English and minoring in Art and Digital Studies at Rutgers Camden. She aims to bring the humanities into the digital age by creating narratives for online platforms. Currently, she’s working on a meta fiction webcomic called Breaking The 4th Wall.
 
-## Breanna Ransom
+## Breanna Ransome
 *Winter*
 English Major - Class of 2017
 

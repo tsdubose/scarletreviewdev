@@ -4,6 +4,7 @@ title: About the Scarlet Review
 # About *The Scarlet Review*
 *The Scarlet Review* is Rutgers-Camden's annual showcase of undergraduate writing. Published each spring as a project of the course "Designing Publications for the Web", *The Scarlet Review* is written, edited and designed entirely by Rutgers-Camden students with the help of faculty advisor Travis DuBose.
 ## 2017 Staff
+![Scarlet Review Staff 2017](img/staffphoto.jpg)
 **Khadedra Leach  
 Editor-in-Chief
 Psychology Major/Writing Minor  
