@@ -1,0 +1,61 @@
+
+// Breakpoints
+$medium-screen: 600px;
+$large-screen: 960px;
+
+// Typography
+$base-font-family: "Georgia", serif;
+$heading-font-family: "Futura PT", sans-serif;
+$h1-font-weight: 900;
+$menu-font-weight: 400;
+
+// Font Sizes
+$base-font-size: 1.2em;
+$caption-size: 1.05em;
+
+// Line height
+$base-line-height: 1.6;
+$heading-line-height: 1.2;
+
+// Other Sizes
+$base-border-radius: 3px;
+$base-spacing: $base-line-height * 1em;
+$small-spacing: $base-spacing / 2;
+$base-z-index: 0;
+
+// Colors
+$blue: #1565c0;
+$dark-gray: #333;
+$medium-gray: #999;
+$light-gray: #ddd;
+$header-background-color: #e74f4e;
+
+// Font Colors
+$base-font-color: $dark-gray;
+$action-color: $blue;
+$accent-text-color: $header-background-color;
+$article-heading-color: #a3acb2;
+
+// Border
+$base-border-color: $light-gray;
+$base-border: 1px solid $base-border-color;
+
+// Background Colors
+$base-background-color: #f2f2f2;
+$secondary-background-color: tint($base-border-color, 75%);
+
+// Forms
+$form-box-shadow: inset 0 1px 3px rgba(#000, 0.06);
+$form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
+
+// Animations
+$base-duration: 150ms;
+$base-timing: ease;
+$base-transition: all 250ms ease-in-out;
+
+//SVGs
+$svg-desktop-size: 40px;
+
+@mixin breakpoint($min-width) {
+	@media only screen and (min-width: $min-width) { @content; }
+}
