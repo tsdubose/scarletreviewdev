@@ -9,17 +9,26 @@ body {
 header {
 	padding-top: $base-spacing;
 	margin-bottom: $small-spacing;
+	background-color: $header-background-color;
+	@include breakpoint($large-screen) {
+		display: flex;
+		justify-content: space-around;
+	}
+}
+
+nav {
+	@include breakpoint($large-screen) {
+		align-self: flex-end;
+	}
 }
 
 .main-nav {
 	display: flex;
 	justify-content: space-around;
 	padding: ($small-spacing / 2) ($small-spacing / 2);
-	background-color: black;
 	font-family: $heading-font-family;
 	font-weight: $menu-font-weight;
 	@include breakpoint($medium-screen) {
-		justify-content: flex-start;
 		padding: $small-spacing $base-spacing;
 
 	}
@@ -36,10 +45,11 @@ header {
 			width: 100%;
 			height: 100%;
 			color: white;
+			transition: $base-transition;
 		}
 
 		a:hover {
-			color: $accent-text-color;
+			color: $article-heading-color;
 		}
 	}
 }
@@ -102,17 +112,22 @@ article {
 		padding-left: $base-spacing;
 	}
 
-	img {
+	svg {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
 		height: $base-spacing * 3;
 		margin-bottom: $small-spacing;
+		fill: white;
+		transition: $base-transition;
+		max-width: 100%;
 		@include breakpoint($medium-screen) {
 			height: $base-spacing * 5;
-			margin-left: 0;
-			margin-right: 0;
 		}
+	}
+
+	svg:hover {
+		fill: $article-heading-color;
 	}
 }
 
@@ -153,5 +168,46 @@ article {
 
 	img:first-child {
 		margin-bottom: $small-spacing;
+	}
+}
+
+/*Layout for contents page*/
+.contents-wrapper {
+	padding: $small-spacing;
+}
+.contents-block {
+	@include breakpoint($large-screen) {
+		max-width: 50%;
+		display: inline-block;
+	}
+}
+@supports (display:grid) {
+	.contents-wrapper {
+
+		@include breakpoint($medium-screen) {
+			display: grid;
+			grid-gap: $small-spacing;
+			grid-template-columns: 1fr 1fr;
+			max-width: $base-spacing * 30;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+	.contents-section {
+		@include breakpoint($medium-screen) {
+			grid-column: 1 / 3;
+		}
+	}
+	.contents-block {
+		background-image: url(../img/header-dearprejudice.jpg);
+		background-size: cover;
+		@include breakpoint($medium-screen) {
+			max-width: initial;
+			display: block;
+		}
+	}
+
+	.contents-title {
+		grid-column: 1/3;
 	}
 }

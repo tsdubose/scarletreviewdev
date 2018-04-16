@@ -10,8 +10,8 @@ $h1-font-weight: 900;
 $menu-font-weight: 400;
 
 // Font Sizes
-$base-font-size: 1.2em;
-$caption-size: 1.05em;
+$base-font-size: 1.2rem;
+$caption-size: 1.05rem;
 
 // Line height
 $base-line-height: 1.6;
@@ -19,7 +19,7 @@ $heading-line-height: 1.2;
 
 // Other Sizes
 $base-border-radius: 3px;
-$base-spacing: $base-line-height * 1em;
+$base-spacing: $base-line-height * $base-font-size;
 $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
