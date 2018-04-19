@@ -323,10 +323,40 @@ article {
 .contents-wrapper {
   padding: 0.96rem; }
 
-@media only screen and (min-width: 960px) {
-  .contents-block {
-    max-width: 50%;
-    display: inline-block; } }
+.contents-block {
+  min-height: 9.6rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-bottom: 0.96rem; }
+  @media only screen and (min-width: 960px) {
+    .contents-block {
+      max-width: 50%;
+      display: inline-flex; } }
+  .contents-block * {
+    color: #a3acb2; }
+
+.contents-linker {
+  position: relative; }
+
+.contents-linker:hover .contents-essay-title {
+  color: #a3acb2; }
+
+.contents-linker:hover::after {
+  content: "";
+  content: " ";
+  z-index: 10;
+  display: block;
+  position: absolute;
+  height: 9.6rem;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5); }
+
+.contents-essay-title {
+  background-color: #333333cf;
+  z-index: 100; }
 
 @supports (display: grid) {
   @media only screen and (min-width: 600px) {
@@ -343,14 +373,69 @@ article {
       grid-column: 1 / 3; } }
 
   .contents-block {
-    background-image: url(../img/header-dearprejudice.jpg);
+    background-image: url("../../img/header-dearprejudice.jpg");
     background-size: cover; }
     @media only screen and (min-width: 600px) {
       .contents-block {
         max-width: initial;
-        display: block; } }
+        display: flex; } }
 
   .contents-title {
     grid-column: 1/3; } }
+/* Archives page */
+.archive-wrapper {
+  padding: 0.96rem; }
+  @media only screen and (min-width: 960px) {
+    .archive-wrapper {
+      width: 38.4rem;
+      margin-left: auto;
+      margin-right: auto; } }
+
+.archive-issue-title {
+  color: #333; }
+
+.archive-card {
+  padding: 0.96rem;
+  margin-bottom: 1.92rem; }
+
+.archive-card:hover > .archive-issue-title {
+  text-decoration: underline; }
+
+#seventeen-card {
+  background-color: #95bbb9; }
+
+#sixteen-card {
+  background-color: #970004; }
+
+/*Backgrounds for contents page. */
+#steve-contents {
+  background-image: url("../img/header-steve.jpg"); }
+
+#riseabove-contents {
+  background-image: url("../img/header-toriseabove.jpg"); }
+
+#poder-contents {
+  background-image: url("../img/header-elpoderenlaspalabras.jpg"); }
+
+#garden-contents {
+  background-image: url("../img/header-oursecretgarden.jpg"); }
+
+#darkside-contents {
+  background-image: url("../img/header-darksideofshowbusiness.jpg"); }
+
+#foolsgold-contents {
+  background-image: url("../img/header-foolsgold.jpg"); }
+
+#room-contents {
+  background-image: url("../img/header-room303.jpg"); }
+
+#funhome-contents {
+  background-image: url("../img/header-funhome.jpg"); }
+
+#willpower-contents {
+  background-image: url("../img/header-willpowerandfeminism.jpg"); }
+
+#devil-contents {
+  background-image: url("../img/header-sympathyforthedevil.jpg"); }
 
 /*# sourceMappingURL=main.css.map */

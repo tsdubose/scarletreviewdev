@@ -1,4 +1,6 @@
-- var pageTitle = page.title || config.subtitle || ''
+- var pageTitle = page.title || config.subtitle || 'The Scarlet Review Spring 2018'
+- var pageDescription = page.accentText || 'The Scarlet Review is Rutgers-Camden’s annual showcase of undergraduate writing.'
+- var pageImage = page.headerimage || null
 
 doctype html
 html(lang=config.language)
@@ -8,6 +10,19 @@ html(lang=config.language)
 		link(rel="stylesheet", href="https://cdnjs.cloudflare.com/ajax/libs/normalize/6.0.0/normalize.css")
 		link(rel="stylesheet", href="css/main.css")
 		meta(name="viewport", content="width=device-width, initial-scale=1")
+		meta(name="description" content=pageDescription)
+		meta(name="twitter:card" content="summary")
+		meta(name="twitter:title" content=pageTitle)
+		meta(name="twitter:description" content=pageDescription)
+		if pageImage
+			meta(name="twitter:image" content="http://scarletreview.camden.rutgers.edu/" + pageImage)
+		meta(property="og:title" content=pageTitle)
+		meta(property="og:description" content=pageDescription)
+		meta(property="og:type" content="article")
+		meta(property="og:site_name" content="The Scarlet Review")
+		if pageImage
+			meta(property="og:image" content="http://scarletreview.camden.rutgers.edu/" + pageImage)
+		
 	body
 		header
 			div.masthead
@@ -17,13 +32,13 @@ html(lang=config.language)
 			nav
 				ul.main-nav
 					li.nav-item
-						a.nav-link(href="#") Home
+						a.nav-link(href="home.html") Home
 					li.nav-item
-						a.nav-link(href="#") Contents
+						a.nav-link(href="contents.html") Contents
 					li.nav-item
-						a.nav-link(href="#") About
+						a.nav-link(href="about.html") About
 					li.nav-item
-						a.nav-link(href="#") Archives
+						a.nav-link(href="archive.html") Archives
 		main
 			block content
 		div.footer

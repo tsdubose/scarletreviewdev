@@ -3,30 +3,45 @@ extends includes/layout
 block content
 	div.contents-wrapper
 		h1.contents-title Contents
-		h2.contents-section Fiction
-		div.contents-block
-			h3.contents-essay-title Title
-			p.contents-description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin varius, ligula non vulputate tempor, nisl orci tristique diam, et commodo metus mauris non nunc.
-		div.contents-block
-			h3.contents-essay-title Title
-			p.contents-description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin varius, ligula non vulputate tempor, nisl orci tristique diam, et commodo metus mauris non nunc.
-		div.contents-block
-			h3.contents-essay-title Title
-			p.contents-description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin varius, ligula non vulputate tempor, nisl orci tristique diam, et commodo metus mauris non nunc.
-		h2.contents-section Personal Essays
-		div.contents-block
-			h3.contents-essay-title Title
-			p.contents-description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin varius, ligula non vulputate tempor, nisl orci tristique diam, et commodo metus mauris non nunc.
-		div.contents-block
-			h3.contents-essay-title Title
-			p.contents-description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin varius, ligula non vulputate tempor, nisl orci tristique diam, et commodo metus mauris non nunc.
-		div.contents-block
-			h3.contents-essay-title Title
-			p.contents-description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin varius, ligula non vulputate tempor, nisl orci tristique diam, et commodo metus mauris non nunc.
 		h2.contents-section Poetry
-		div.contents-block
-			h3.contents-essay-title Title
-			p.contents-description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin varius, ligula non vulputate tempor, nisl orci tristique diam, et commodo metus mauris non nunc.
-		div.contents-block
-			h3.contents-essay-title Title
-			p.contents-description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin varius, ligula non vulputate tempor, nisl orci tristique diam, et commodo metus mauris non nunc.
+		a.contents-linker(href="steve.html")
+			div.contents-block#steve-contents
+				h3.contents-essay-title Steve
+		a.contents-linker(href="toriseabove.html")
+			div.contents-block#riseabove-contents
+				h3.contents-essay-title To Rise Above
+		h2.contents-section Personal Essays
+		a.contents-linker(href="elpoderenlaspalabras.html")
+			div.contents-block#poder-contents
+				h3.contents-essay-title El Poder en las Palabras
+				p.contents-description A young woman’s journey through language and its place in her life as she navigates through her professional and personal life.
+		a.contents-linker(href="secretgarden.html")
+			div.contents-block#garden-contents
+				h3.contents-essay-title Our Secret Garden
+				p.contents-description A personal narrative about how reading and solitude can bring a family together.
+		a.contents-linker(href="darksideofshowbusiness.html")
+			div.contents-block#darkside-contents
+				h3.contents-essay-title The Dark Side of Show Business
+				p.contents-description In an open letter, a concerned fan recounts events of the Weinstein scandal and Meryl Streep’s involvement (or lack thereof).
+		h2.contents-section Fiction
+		a.contents-linker(href="foolsgold.html")
+			div.contents-block#foolsgold-contents
+				h3.contents-essay-title Fool’s Gold
+				p.contents-description A humorous fantasy tale involving a young wizard’s journey of greed that leaves him wondering how he ever ended up in such a situation.
+		a.contents-linker(href="room303.html")
+			div.contents-block#room-contents
+				h3.contents-essay-title Room 303
+				p.contents-description A boy with Autism deals with a stressful situation.
+		h2.contents-section Academic Essays
+		a.contents-linker(href="funhome.html")
+			div.contents-block#funhome-contents
+				h3.contents-essay-title Fun Home
+				p.contents-description
+		a.contents-linker(href="sympathyforthedevil.html")
+			div.contents-block#devil-contents
+				h3.contents-essay-title Sympathy for the Devil
+				p.contents-description Literary criticism of Marlowe’s <i>The Tragical history of Doctor Faustus</i>.
+		a.contents-linker(href="willpowerandfeminism.html")
+			div.contents-block#willpower-contents
+				h3.contents-essay-title Will Power and Feminism
+				p.contents-description An argumentative paper on early feminism within Shakespeare’s plays <i>Romeo and Juliet</i>, <i>The Merchant of Venice</i>, and <i>Hamlet</i>.
