@@ -32,7 +32,7 @@ Ali, Yashar. “EXCLUSIVE: Meryl Streep Speaks Out Against Harvey Weinstein.” 
 
 “85th Academy Awards.” Mischer, Don, director. Oscars, 24 Feb. 2013.
 
-Farrow, Dylan. “An Open Letter From Dylan Farrow.” New York Times, New York Times Company, 1 Feb. 2014, www.bing.com/cr?IG=74FCF2D318D749DAB0733301F9FD9171&CID=2BDEA239EE0760E713D2A905EF016154&rd=1&h=iCMn5eTG0_w_kDDtJr-s1NqCuIyvbsHhV_Cl9EtuWoc&v=1&r=https%3a%2f%2fkristof.blogs.nytimes.com%2f2014%2f02%2f01%2fan-open-letter-from-dylan-farrow%2f&p=DevEx,5067.1.
+Farrow, Dylan. “An Open Letter From Dylan Farrow.” New York Times, New York Times Company, 1 Feb. 2014.
 
 Fey, Tina. “Kidnapped by Danger.” 30 Rock, season 6, episode 14, 22 Mar. 2012.
 

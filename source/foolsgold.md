@@ -3,7 +3,7 @@ title: Fool's Gold
 author: Albert Moncao
 layout: article
 headerimage: img/header-foolsgold.jpg
-accentext: “In two and a half decades of his life, he never thought that money would be the death of him.”
+accenttext: In two and a half decades of his life, he never thought that money would be the death of him.
 accentimage: img/accent-image-foolsgold.jpg
 ---
 Sturgeon Winthdrop leaned back on his wooden chair and listened to the droplets of rain splash on the tavern's roof. He promptly ignored the raising of bets and jingling of coins at the card table where he sat. He knew he won, so why pretend? The three other people at the table were bluffing like stubborn children who told their mothers that they were going to run away. And he could read each one of them. The large, hairy man, Marcus, fiddled with his silver wedding ring and stared at the gold in the center of the table instead of his cards. A common tell. Tessa was the muscular woman that sat next to Sturgeon. She was a fantastic liar, but unfortunately her "guard" dog wasn't. Whenever she was dealt a good hand, Barkus wagged his tail. During bad hands, like this one, he growled quietly enough that only Sturgeon could hear. And Nog, the shorter fourth player? Well, he's Nog. Nobody was worse at poker than him.
