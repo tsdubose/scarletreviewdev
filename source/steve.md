@@ -12,6 +12,8 @@ title: Steve
 </audio>
 <img class="accent-image" src="img/accent-image-steve.jpg">
 
+*The editors recommend wearing headphones while listening to this piece.*
+
 Soaked in sweat,
 His head lays on a hard mattress
 His whole body is wet.

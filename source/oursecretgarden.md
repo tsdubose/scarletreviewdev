@@ -41,5 +41,5 @@ I also see how through reading, I was able to expand and share my secret garden 
 
 We hardly ever visit the library now. Age and responsibility has robbed us of that time. All that is left is our memories of our Secret Garden, and yet new flowers still blossom. Maybe the library never really was our Secret Garden, maybe it was always within the knowledge and affinity we have for each other- the time we took to enjoy each other’s company. Perhaps our Secret Garden never truly became a memory, but the very place we built and continue to build our sisterly inseparability from.
 
-##About the Author
+## About the Author
 I enjoy sleeping more than anything, but in rare moments of consciousness, I also like running, cooking, and the arts. My favorite authors include Cressida Cowell, Ray Bradbury, and Jane Austen. When I'm not annoying my English professor with schemes to do the least amount of work, I like to think about what I want to do with my life and my health science degree. I've only made incremental progress on that so far, so I guess I'm stuck with writing things. But I enjoy that, so I guess it's all working out.

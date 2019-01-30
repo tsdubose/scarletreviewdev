@@ -251,7 +251,7 @@ article {
   background-size: cover;
   position: relative;
   height: 23.04rem;
-  background-position: center center; }
+  background-position: 50% 30%; }
   .title-marquee h1 {
     margin: 0;
     font-family: "Futura PT", sans-serif;
@@ -393,7 +393,7 @@ article {
 /* Archives page */
 .archive-wrapper {
   padding: 0.96rem; }
-  @media only screen and (min-width: 960px) {
+  @media only screen and (min-width: 600px) {
     .archive-wrapper {
       width: 38.4rem;
       margin-left: auto;
@@ -413,7 +413,7 @@ article {
   background-color: #95bbb9; }
 
 #sixteen-card {
-  background-color: #970004; }
+  background-color: #970004cc; }
 
 /*Backgrounds for contents page. */
 #steve-contents {
@@ -446,7 +446,38 @@ article {
 #devil-contents {
   background-image: url("../img/header-sympathyforthedevil.jpg"); }
 
+#editor-contents {
+  background-image: url("../img/header-letterfromtheeditor.jpg");
+  background-position-y: center;
+  background-repeat: no-repeat; }
+
 hr {
   clear: both; }
 
-/*# sourceMappingURL=main.css.map */
+.cover-page {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-image: url("../img/cover.jpg"); }
+  @media only screen and (min-width: 960px) {
+    .cover-page {
+      background-position-y: center; } }
+
+.cover-page svg {
+  width: 19.2rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  fill: #fff; }
+  @media only screen and (min-width: 960px) {
+    .cover-page svg {
+      width: 28.8rem; } }
+
+.issue-date {
+  font-family: "Futura PT", sans-serif;
+  font-size: 1.8rem;
+  color: #a3acb2;
+  text-align: center; }
+
+.subtitle {
+  font-family: "Futura PT", sans-serif; }

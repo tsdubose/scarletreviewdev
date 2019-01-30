@@ -26,9 +26,9 @@ Samantha Spence, a concerned fan
 
 ## Works Cited
 
-Ali, Yashar. “Exclusive: Meryl Streep Responds To Rose McGowan's Criticism.” The Huffington Post, TheHuffingtonPost.com, 19 Dec. 2017, www.huffingtonpost.com/entry/meryl-streep-responds-to-rose-mcgowan-criticism_us_5a38365be4b0c65287aba6f2.
+Ali, Yashar. “Exclusive: Meryl Streep Responds To Rose McGowan's Criticism.” The Huffington Post, TheHuffingtonPost.com, 19 Dec. 2017.
 
-Ali, Yashar. “EXCLUSIVE: Meryl Streep Speaks Out Against Harvey Weinstein.” HuffPost, HuffPost News, 9 Oct. 2017, www.huffingtonpost.com/entry/meryl-streep-harvey-weinstein_us_59db5d87e4b072637c45420e.
+Ali, Yashar. “EXCLUSIVE: Meryl Streep Speaks Out Against Harvey Weinstein.” HuffPost, HuffPost News, 9 Oct. 2017.
 
 “85th Academy Awards.” Mischer, Don, director. Oscars, 24 Feb. 2013.
 
@@ -36,6 +36,6 @@ Farrow, Dylan. “An Open Letter From Dylan Farrow.” New York Times, New York 
 
 Fey, Tina. “Kidnapped by Danger.” 30 Rock, season 6, episode 14, 22 Mar. 2012.
 
-Gabler, Ellen, et al. “New Accusers Expand Harvey Weinstein Sexual Assault Claims Back to ’70s.” New York Times, New York Times Company, 30 Oct. 2017, www.nytimes.com/2017/10/30/us/harvey-weinstein-sexual-assault-allegations.html.
+Gabler, Ellen, et al. “New Accusers Expand Harvey Weinstein Sexual Assault Claims Back to ’70s.” New York Times, New York Times Company, 30 Oct. 2017.
 
-Melas, Chloe. “'House of Cards' Employees Allege Sexual Harassment, Assault by Kevin Spacey.” CNN Media, Time Warner, 3 Nov. 2017, www.cnn.com/2017/11/02/media/house-of-cards-kevin-spacey-harassment/index.html.
+Melas, Chloe. “'House of Cards' Employees Allege Sexual Harassment, Assault by Kevin Spacey.” CNN Media, Time Warner, 3 Nov. 2017.

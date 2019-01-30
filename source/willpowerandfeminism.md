@@ -3,7 +3,7 @@ title: Will Power and Feminism
 author: Maggie Montalto
 layout: article
 headerimage: img/header-willpowerandfeminism.jpg
-accentext: “In two and a half decades of his life, he never thought that money would be the death of him.”
+accenttext: In two and a half decades of his life, he never thought that money would be the death of him.
 accentimage: img/accent-image-willpowerandfeminism.jpg
 ---
 
@@ -39,6 +39,9 @@ Just like Juliet, the only aspect of her life Ophelia can control is when she di
 
 *Juliet, Portia, and Ophelia, are independent characters that Shakespeare uses in order to problematize the sexist ideas of his time period.* They all make very large decisions and prove that women have a place in a male dominated society. These characters are essential to the plots of these plays and make the idea of smart, independent women a feasible aspect of the time period.  
 
+## About the Author
+Maggie Montalto is a graduating senior at Rutgers University-Camden. She is a member of the Honors College and majors in English and Digital Studies with a minor in communications. She was part of the editorial staff for the first issue of The Scarlet Review and is thrilled to be published. She currently writes for MunaLuchi Bridal and works as a writing consultant at the Writing and Design Lab. After graduation Maggie hopes to pursue a career in online publication.
+
 ## Works Cited
 
 Fitter, Chris. Radical Shakespeare: Politics and Stagecraft in the Early Career. Routledge, 2012.
@@ -50,7 +53,3 @@ Shakespeare, William. Romeo and Juliet. Folger Shakespeare Library, 1993.
 Shakespeare, William. Hamlet. Simon & Schuster Paperbacks, 2009.
 
 Shakespeare, William. The Merchant of Venice. Simon & Schuster Paperbacks, 2011.
-
-## About the Author ##
-
-Maggie Montalto is a graduating senior at Rutgers University-Camden. She is a member of the Honors College and majors in English and Digital Studies with a minor in communications. She was part of the editorial staff for the first issue of The Scarlet Review and is thrilled to be published. She currently writes for MunaLuchi Bridal and works as a writing consultant at the Writing and Design Lab. After graduation Maggie hopes to pursue a career in online publication.

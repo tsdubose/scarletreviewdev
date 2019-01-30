@@ -10,6 +10,9 @@ title: To Rise Above
   <source src="toriseabove.mp3" type="audio/mp3">
   Your browser does not support audio playback. You can listen by <a href="toriseabove.mp3">downloading the file.</a>
 </audio>
+
+*The editors recommend wearing headphones while listening to this piece.*
+
 <img class="accent-image" src="img/accent-image-toriseabove.jpg">
 I was born in the shadow of a small and miserable city. //
 I was raised Hispanic and proud; taught to never accept pity. //
