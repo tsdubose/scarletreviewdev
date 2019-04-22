@@ -127,6 +127,9 @@ article {
 
 .accent-text {
 	color: $accent-text-color;
+	font-family: $heading-font-family;
+	font-size: $base-font-size * 1.25;
+	border-left: 3px solid $action-color;
 	@include breakpoint($large-screen) {
 		float: left;
 		margin-right: $small-spacing;
@@ -269,7 +272,9 @@ article {
 .archive-card:hover > .archive-issue-title {
 	text-decoration: underline;
 }
-
+#eighteen-card {
+	background-color: #e74f4e;
+}
 #seventeen-card {
 	background-color: #95bbb9;
 }

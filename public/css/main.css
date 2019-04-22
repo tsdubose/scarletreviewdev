@@ -283,7 +283,10 @@ article {
       max-height: none; } }
 
 .accent-text {
-  color: #e74f4e; }
+  color: #e74f4e;
+  font-family: "Georgia", serif;
+  font-size: 1.75rem;
+  border-left: 3px solid #1565c0; }
   @media only screen and (min-width: 960px) {
     .accent-text {
       float: left;
@@ -400,6 +403,9 @@ article {
 
 .archive-card:hover > .archive-issue-title {
   text-decoration: underline; }
+
+#eighteen-card {
+  background-color: #e74f4e; }
 
 #seventeen-card {
   background-color: #95bbb9; }
