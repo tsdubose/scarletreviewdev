@@ -28,20 +28,21 @@ $blue: #1565c0;
 $dark-gray: #333;
 $medium-gray: #999;
 $light-gray: #ddd;
-$header-background-color: #e74f4e;
+$header-background-color: #ab2c2d;
 
 // Font Colors
 $base-font-color: $dark-gray;
-$action-color: $blue;
-$accent-text-color: $header-background-color;
+$action-color: #ab2c2d;
 $article-heading-color: #a3acb2;
+$accent-text-color: $header-background-color;
+
 
 // Border
 $base-border-color: $light-gray;
 $base-border: 1px solid $base-border-color;
 
 // Background Colors
-$base-background-color: #f2f2f2;
+$base-background-color: #d7d0d0;
 $secondary-background-color: tint($base-border-color, 75%);
 
 // Forms

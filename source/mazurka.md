@@ -4,6 +4,8 @@ author: Samuel Lyons
 headerimage: img/header-mazurka.jpg
 accenttext: null
 layout: article
+fontlink: https://fonts.googleapis.com/css?family=Nanum+Brush+Script
+fontfamily: 'Nanum Brush Script', cursive
 ---
 
 Days after the dust had settled,

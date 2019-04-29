@@ -4,6 +4,8 @@ author: Eliana Puschett
 headerimage: img/header-thetaleoflynnemolando.jpg
 accenttext: “Nothing,” she gasped, realizing how her voice was nearly nonexistent. “Nothing happened.” She didn’t say anything. No one would believe her, anyway.
 layout: article
+fontlink: https://fonts.googleapis.com/css?family=Caveat
+fontfamily: 'Caveat', cursive
 ---
 The townhouse wasn’t always this cluttered; there was once a time where the grass outside was cut properly, and where the windows didn’t let a cold draft in during the winter; where the thoughts in her mind of getting her next high didn’t overcome the fear of not feeding her two girls. Her body lay numbly on the couch, and she glanced at her worn-in piano across the living room and remembered how art once filled her life. Now, all that’s there is cracked family photos, and leaving her daughters alone at 3 AM to shuffle through the streets, in search for a “friend.” Interesting how that works, she thought; how thirty years ago, she would never let her home reek of cigarette smoke, and the painting on the walls chip off, or milk rot in the fridge for weeks on end.
 

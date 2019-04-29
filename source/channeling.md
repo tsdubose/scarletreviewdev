@@ -4,6 +4,8 @@ author: Erin Johnson
 headerimage: img/header-channeling.jpg
 accenttext: null
 layout: article
+fontlink: https://fonts.googleapis.com/css?family=Press+Start+2P
+fontfamily: 'Press Start 2P', cursive
 ---
 In 1995, Michael Jackson released the single *Scream* in direct response to tabloid media. Leading up to that year, numerous forms of media villainized Jackson as a perpetrator of child sexual abuse, even though the singer was never charged with a crime. *Scream* addressed the allegations with statements such as “Stop pressuring me,” and “With such delusions don’t it make you wanna scream.” In my sound project, I used Michael Jackson’s *Scream* as a commentary on how black people are portrayed in modern media.
 

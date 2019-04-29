@@ -4,6 +4,8 @@ author: Joseph Roman
 headerimage: img/header-develishwishes.jpg
 accenttext: null
 layout: article
+fontlink: https://fonts.googleapis.com/css?family=Great+Vibes
+fontfamily: 'Great Vibes', cursive
 ---
 To the brightest diamond in a crowded room;
 You’ll never know these words are about you

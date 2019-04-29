@@ -4,6 +4,8 @@ author: Victoria Wroblewski
 headerimage: img/header-skin.jpg
 accenttext: “Alike. Yes. Well that’s the point, isn’t it?  What would I want with slugs when I can have an equal, like you?”
 layout: article
+fontlink: https://fonts.googleapis.com/css?family=Eater
+fontfamily: 'Eater', cursive
 ---
 Some little way off of the main road stood what must once have been a pleasant home. It was modest enough in size, but had the advantage of land and privacy. It stood two stories tall in a sizable garden, shielded from the road by a line of trees and straggling bushes. The lawn was overgrown, long grass competing with high weeds for the soil, while fallen leaves and twigs lay strewn about, unheeded. The house was at an awkward stage in its decay, being clearly abandoned, but not yet decrepit. The windows were dark and lifeless, some bereft of their screens and storm windows, others playing host to the thick, sticky strands of the local arachnid population. Blinds hung in crooked and gap-toothed disarray in the windows, and across the tattered sheer curtains of one downstairs room, a light flickered, betraying the presence of some intruder. Both front and back doors had been padlocked to prevent occurrences such as this, but one of the capacious rear windows stood open, the snib having been forced back. From this aperture there came a cornucopia of sounds, muffled by a closed door which separated it from the curtained front room. There was a drum beat, the melodic grinding of electric guitar, and a singing voice, but beneath these was the sound of whimpering, an occasional scream rising up to mingle and drown the music.
 

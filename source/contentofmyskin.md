@@ -4,6 +4,8 @@ author: Emilyann Thompson
 headerimage: img/header-thecontentofmyskin.jpg
 accenttext: I believe that my black is beautiful and I will take it day by day until I can truly live what I believe.
 layout: article
+fontlink: https://fonts.googleapis.com/css?family=Gloria+Hallelujah
+fontfamily: 'Gloria Hallelujah', cursive
 ---
 I always thought my skin was too dark. Well actually not always. I did not think I was  too dark until about middle school when a little boy asked if my mom had left me in the oven for too long. It’s okay, you can laugh. For a while I did too. You see, everything is funny when everyone is laughing, but things seemingly became a lot less funny when I was alone.  I was left with just me, and my reflection.
 

@@ -3,7 +3,9 @@ title: The Cannoli Catastrophe
 author: Kristal Rivera
 headerimage: img/header-thecannolicatastrophe.jpg
 accenttext: “How can I run an Italian bakery without any cannoli, am I right?”
-layout: article 
+layout: article
+fontlink: https://fonts.googleapis.com/css?family=Dancing+Script
+fontfamily: 'Dancing Script', cursive
 ---
 Could you believe this guy? He’s nuts, this guy! Does he really think he can come into my place of business and tell me how to run it? Tell me what to sell? This guy thinks he has the biggest balls in town but let me tell you something, he doesn’t! I’ll give it to him, he’s a tough guy, until he sees the balls that I’m packing! Pardon my manners. This guy drives me nuts. How you doin’? The name is Sonny, Sonny Caparelli. I own a bakery right here in Belmont. Can’t get any better than the West Bronx. I grew up in this neighborhood. Back in the days, there were all kinds of restaurants and pastry shops all over.   Every day after school, I would go down to one of the shops to buy me some cannoli. I was a fat kid, let me tell you. What can I say? My mother used to spoil me! I was her baby! She died when I was thirteen years old so I had to grow up fast and earn some money, if you know what I mean. I went from momma’s boy, to the most feared man in the city. The real name’s Vincenzo, but everyone calls me Sonny. How’d I get the name youse might be wondering? Well if you mess with me, I’ll make sure you see the light at the end of the tunnel. I also got the name because of my bright personality that youse can feel through my smooth talking right now.
 

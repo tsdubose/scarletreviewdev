@@ -4,6 +4,8 @@ author: Myron Fields
 headerimage: img/header-getout.jpg
 accenttext: I wryly agreed that all those things were true, but at the end of the day, he was simply in love with black culture, not the black experience of day to day living.
 layout: article
+fontlink: https://fonts.googleapis.com/css?family=Bowlby+One
+fontfamily: 'Bowlby One', cursive
 ---
 
 When I was attending high school (which was a long time ago), a group of friends and I were having a discussion about race.  "Sometimes, I think it would be cool to be Black" commented one of my friends.  Since I was the only Black male in the group, I snorted loudly at his observation.  I took the tone of a Southern woman who gives you the classic "bless his heart" passive/aggressive declaration.  "Trust me, it's not as great as you think", I opined. "But, he continued, you guys are great athletes, performers, and singers.” I wryly agreed that all those things were true, but at the end of the day, he was simply in love with black culture, not the black experience of day to day living.

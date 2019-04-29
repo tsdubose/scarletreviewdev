@@ -4,6 +4,8 @@ author: Stephen Fox
 headerimage: img/header-theimportanceofmonsters.jpg
 accenttext: Arguably the most important role of the monster, though, is to be an enemy whose defeat inspires us to be like the heroes of old.
 layout: article
+fontlink: https://fonts.googleapis.com/css?family=Cinzel
+fontfamily: Cinzel, serif
 ---
 The ancient story of *Beowulf* is famous for its’ monstrous foes fought within it. Grendel and his mother, along with the fire-dragon, are usually what readers recall about the poem. We often remember the monsters in media more so than the hero, but why is that? Many can easily recall such fearsome adversaries as Smaug, the dragon from *The Hobbit*, the Kraken from *Clash of the Titans*, and the Monster from *Frankenstein*. All of them stand out far more than the protagonists of their stories. It is possible that these creatures represent long-buried aspects of our psyche, thereby speaking to humans on a primal level. They may also serve as incarnations of the other; emissaries from the world that remain just out of sight. Or perhaps, we as a people have an innate desire to create entities to compare ourselves to in order to reassure ourselves about what we hope is our rightful superiority in the world. Through examining the role of the monster in various writings and media, this paper unearths the similarities that connect them across many tales and stories as well as deciphering the hidden importance of monsters.
 

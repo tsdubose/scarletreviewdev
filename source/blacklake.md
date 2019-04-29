@@ -4,6 +4,8 @@ author: Jaslynn Martinez
 headerimage: img/header-blacklake.jpg
 accenttext: I'm alone with my thoughts at all waking hours of the day, and I often wonder if I made the right decision to flee.
 layout: article
+fontlink: https://fonts.googleapis.com/css?family=Rock+Salt
+fontfamily: 'Rock Salt', cursive
 ---
 ## October 3, 1998
 I am finally in a safe place to write. This morning I was ripped from the comfort of my bed by my elder sister, tears streaming down her blackened cheeks. She told me that my parents had been slain, and that the village was under attack. I heard heavy footsteps outside our hut, as if people were marching in unison, weighed down by their armor. I stood, motionless, my heart pounding in my ears. *Is this really happening?* I thought to myself. My sister shook me violently, trying to snap me out of my shocked state. “Do you hear me? *Run!*” She yanked my arm and pushed me out the door with all her might.
