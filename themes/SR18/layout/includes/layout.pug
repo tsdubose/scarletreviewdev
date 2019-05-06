@@ -8,7 +8,6 @@ html(lang=config.language)
 		meta(charset='UTF-8')
 		title= pageTitle
 		link(rel="stylesheet", href="https://cdnjs.cloudflare.com/ajax/libs/normalize/6.0.0/normalize.css")
-		link(rel="stylesheet", href="css/main.css")
 		meta(name="viewport", content="width=device-width, initial-scale=1")
 		meta(name="description" content=pageDescription)
 		meta(name="twitter:card" content="summary")
@@ -22,7 +21,10 @@ html(lang=config.language)
 		meta(property="og:site_name" content="The Scarlet Review")
 		if pageImage
 			meta(property="og:image" content="http://scarletreview.camden.rutgers.edu/" + pageImage)
-		<link rel="stylesheet" href="https://use.typekit.net/tie2vbh.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+		link(rel="stylesheet", href="css/main.css")
+		<link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>
+
 	body
 		header
 			a.home-link(href="home.html")

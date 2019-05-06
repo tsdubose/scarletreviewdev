@@ -1,19 +1,26 @@
 extends includes/layout
 
 block content
-	div.contents-wrapper
-		h1.contents-title The Scarlet Review 2018
-		h2.contents-section Submit your work for the 2019 edition to <a href="mailto:scarletreviewrutgers@gmail.com">scarletreviewrutgers@gmail.com</a>
-		a.contents-linker(href="letterfromtheeditor.html")
-			div.contents-block#editor-contents
-				h3.contents-essay-title Letter from the Editor
-		h2.contents-section Featured
-		a.contents-linker(href="steve.html")
-			div.contents-block#steve-contents
-				h3.contents-essay-title Steve
-		a.contents-linker(href="elpoderenlaspalabras.html")
-			div.contents-block#poder-contents
-				h3.contents-essay-title El Poder en las Palabras
-		a.contents-linker(href="sympathyforthedevil.html")
-			div.contents-block#devil-contents
-				h3.contents-essay-title Sympathy for the Devil
+	div.home-wrapper
+		h1.contents-title The Scarlet Review 2019
+		div.carousel-container
+			a.contents-linker(href="mazurka.html")
+				div.carousel-item#mazurka-contents
+					h2.home-article-title Mazurka
+			a.contents-linker(href="contentofmyskin.html")
+				div.carousel-item#contentofmyskin-contents
+					h2.home-article-title Content of My Skin
+			a.contents-linker(href="blacklake.html")
+				div.carousel-item#blacklake-contents
+					h2.home-article-title Black Lake
+			a.contents-linker(href="lynnmolando.html")
+				div.carousel-item#lynnmolando-contents
+					h2.home-article-title The Tale of Lynne Molando
+		div.article-content
+			h1.letter-editor Letter from the Editor 
+			div.bullshit !{page.content}
+	<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+	<script type="text/javascript">$(document).ready(function(){$('.carousel-container').slick();});</script>
+	style.
+		.slick-arrow {background: #ab2c2d;}

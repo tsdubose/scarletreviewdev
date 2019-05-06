@@ -4,10 +4,10 @@ author: Eliana Puschett
 headerimage: img/header-thetaleoflynnemolando.jpg
 accenttext: “Nothing,” she gasped, realizing how her voice was nearly nonexistent. “Nothing happened.” She didn’t say anything. No one would believe her, anyway.
 layout: article
-fontlink: https://fonts.googleapis.com/css?family=Caveat
-fontfamily: 'Caveat', cursive
 ---
 The townhouse wasn’t always this cluttered; there was once a time where the grass outside was cut properly, and where the windows didn’t let a cold draft in during the winter; where the thoughts in her mind of getting her next high didn’t overcome the fear of not feeding her two girls. Her body lay numbly on the couch, and she glanced at her worn-in piano across the living room and remembered how art once filled her life. Now, all that’s there is cracked family photos, and leaving her daughters alone at 3 AM to shuffle through the streets, in search for a “friend.” Interesting how that works, she thought; how thirty years ago, she would never let her home reek of cigarette smoke, and the painting on the walls chip off, or milk rot in the fridge for weeks on end.
+
+***
 
 1981, December: who knows the actual day, she didn’t. Looking on the desk under her, she read the laminated file: “Lynne Molando, 18, 5’6, 125 lbs. black hair, brown eyes,” and the picture, her own eyes staring back at her, a sense of emptiness crossing her lips as the camera refused to flash. A husky man approached her from afar, and she felt herself reflexively sink smaller into her plastic chair.
 
@@ -18,6 +18,8 @@ The townhouse wasn’t always this cluttered; there was once a time where the gr
 “I’m Officer Davison. Would you like to call anyone?” His accent wasn’t as thick as most of the southerners around. Maybe he wasn’t from around here. Lynne finally let her eyes leave his badge and meet his eyes, a radiant blue, and she was immediately crippled with fear, her recently repressed memories flooding back in. For a second, she contemplated reaching out to her parents, or maybe her brother even. But what would the point of that be? She knew they wouldn’t believe her regardless. She wanted to run. To rip these cold, metal handcuffs off, to find her beloved hypothetical Harley, and to toss a leather jacket on and never look back. Maybe she’d go to California, or back up north. It was stupid of her to have stayed home.
 
 It was her first time here. The walls had seemingly been closing in on her for hours. She thought of how her brother was probably curled up at home with his latest medical novel. She chuckled to herself at the irony of their differences. Damn nerd. They were adopted, after all. She let her thoughts start to spiral, thinking about the course of events that led her to sit in the county police station, surrounded by pathetic druggies and people too incompetent to even understand the difference between Hanukkah and Kwanzaa. She was sore all over, from the running, from the falling, the jumping, the—she didn’t want to think about that, to follow what just occurred only a couple hours prior.
+
+***
 
 It was dusk, the sun finally setting earlier in the night. The Arkansas air was chilled, but she didn’t mind. The stars were too glorious to ignore, and as she walked back from her painting class, she felt security in the idea that as soon as she stepped foot in her oversized, empty home, she would disappear into her room and lock the door and let herself draw even more. Or maybe this time, she’d finally start strumming on the guitar her best friend Kyle let her borrow. Her parents would be asleep, so she wouldn’t have to worry about her father coming in and lecturing her about the importance of a solid education. She continued to walk and follow the sidewalk, the surface scraping the soles of her worn-in shoes, her hand gripping her folder containing her latest painting, legs sore from standing all day at a drug store unknown to most of the town.
 
@@ -51,5 +53,7 @@ Lynne left the house and worked her way towards the main road. She was sore, but
 
 “Nothing,” she gasped, realizing how her voice was nearly nonexistent. “Nothing happened.” She didn’t say anything. No one would believe her, anyway. She looked exactly like what her parents thought she was: a delinquent. Lynne sat in the station until her best friend found his way to bail her out. She told him she’d pay him back. He said that she didn’t have to.
 She liked that idea; she wanted to start investing her money elsewhere.
+
+***
 
 The townhouse wasn’t always this cluttered, but she now lets the grass grow too long to walk through, she tapes the windows to avoid the cold air coming through and lets her older daughter go to bed without dinner. Life wasn’t meant to be easy. The girls were still at school, so she collapses once again on the couch as she ties a belt around her frail bicep, injecting a needle straight into her vein. Maybe one of these days, it will finally become enough.

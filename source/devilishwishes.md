@@ -1,16 +1,14 @@
 ---
-title: Develish Wishes
+title: Devilish Wishes
 author: Joseph Roman
-headerimage: img/header-develishwishes.jpg
+headerimage: img/header-devilishwishes.jpg
 accenttext: null
 layout: article
-fontlink: https://fonts.googleapis.com/css?family=Great+Vibes
-fontfamily: 'Great Vibes', cursive
 ---
 To the brightest diamond in a crowded room;
 You’ll never know these words are about you
 Better to suffer in silence and let it go
-Then to risk being a fool and letting shit show
+Than to risk being a fool and letting shit show
 
 I must admit, you’re quite the lovely illusion
 Causing panic, wreaking havoc, all sorts of confusion

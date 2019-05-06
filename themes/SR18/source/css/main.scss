@@ -3,6 +3,7 @@
 /* http://kenwheeler.github.io/slick/ */
 body {
 	margin: 0;
+	background-color: $base-background-color;
 }
 
 header {
@@ -29,8 +30,10 @@ main {
 	padding: ($small-spacing / 2) ($small-spacing / 2);
 	font-family: $heading-font-family;
 	font-weight: $menu-font-weight;
+	font-size: .8rem;
 	@include breakpoint($medium-screen) {
 		padding: $small-spacing $base-spacing;
+		font-size: $base-font-size;
 	}
 
 	li {
@@ -44,12 +47,12 @@ main {
 		a {
 			width: 100%;
 			height: 100%;
-			color: white;
+			color: #c6ced4;
 			transition: $base-transition;
 		}
 
 		a:hover {
-			color: $article-heading-color;
+			color: white;
 		}
 	}
 }
@@ -62,7 +65,7 @@ article {
 	padding: $base-spacing;
 	@include breakpoint($large-screen) {
 		width: $base-spacing * 25;
-		padding: $base-spacing 0 0;
+		padding: $base-spacing;
 		margin-left: auto;
 		margin-right: auto;
 	}
@@ -73,10 +76,30 @@ article {
 		@include breakpoint($large-screen) {
 			float: right;
 			margin: $base-spacing 0 $base-spacing $base-spacing;
+			max-width: 50%;
 		}
 	}
 }
+.about-page {
+	padding: $base-spacing;
+	@include breakpoint($large-screen) {
+		width: $base-spacing * 25;
+		padding: $base-spacing;
+		margin-left: auto;
+		margin-right: auto;
+	}
 
+	h1, h2 {
+		margin-bottom: $small-spacing;
+	}
+	img {
+		height: $base-spacing * 8;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: $small-spacing;
+	}
+}
 .title-marquee {
 	background-size: cover;
 	position: relative;
@@ -110,7 +133,7 @@ article {
 		margin-right: auto;
 		height: $base-spacing * 3;
 		margin-bottom: $small-spacing;
-		fill: white;
+		fill: $base-background-color;
 		transition: $base-transition;
 		max-width: 100%;
 		@include breakpoint($medium-screen) {
@@ -119,7 +142,7 @@ article {
 	}
 
 	svg:hover {
-		fill: $article-heading-color;
+		fill: white;
 	}
 }
 
@@ -148,7 +171,7 @@ article {
 .footer {
 	display: flex;
 	flex-wrap: wrap;
-	padding: 0 $base-spacing $base-spacing;
+	padding: $base-spacing;
 	@include breakpoint($large-screen) {
 		justify-content: space-between;
 		width: $base-spacing * 20;
@@ -196,16 +219,24 @@ article {
 	position: relative;
 }
 
-.contents-linker:hover .contents-essay-title {
+.contents-linker:hover .contents-essay-title,
+ .contents-linker:hover .contents-essay-title {
 	color: $article-heading-color;
 }
 
-.contents-essay-title {
+.contents-essay-title,
+.contents-subtitle {
 	background-color: #333333cf;
 	z-index: 100;
-	position: absolute;
-	bottom: 0;
+	// position: absolute;
+	// bottom: 0;
+	padding-left: $small-spacing / 2;
 }
+
+.contents-subtitle {
+	margin: 0;
+}
+
 @supports (display:grid) {
 	.contents-wrapper {
 		@include breakpoint($medium-screen) {
@@ -235,6 +266,7 @@ article {
 	.contents-title {
 		grid-column: span 2;
 		text-align: center;
+		margin-bottom: $base-spacing;
 	}
 
 	.contents-linker:hover::after {
@@ -286,47 +318,51 @@ article {
 }
 /*Backgrounds for contents page. */
 #theimportanceofmonsters-contents {
-	background-image: url("../img/header-theimportanceofmonsters.jpg")
+	background-image: url("../img/header-theimportanceofmonsters.jpg");
 }
 
 #skin-contents {
-	background-image: url("../img/header-skin.jpg")
+	background-image: url("../img/header-skin.jpg");
 }
 
 #getout-contents {
-	background-image: url("../img/header-getout.jpg")
+	background-image: url("../img/header-getout.jpg");
 }
 
 #contentofmyskin-contents {
-	background-image: url("../img/header-contentofmyskin.jpg")
+	background-image: url("../img/header-contentofmyskin.jpg");
 }
 
 #channeling-contents {
-	background-image: url("../img/header-channeling.jpg")
+	background-image: url("../img/header-channeling.jpg");
 }
 
 #mazurka-contents {
-	background-image: url("../img/header-mazurka.jpg")
+	background-image: url("../img/header-mazurka.jpg");
 }
 
 #lynnmolando-contents {
-	background-image: url("../img/header-thetaleoflynnmolando.jpg")
+	background-image: url("../img/header-thetaleoflynnmolando.jpg");
 }
 
 #yablon-contents {
-	background-image: url("../img/header-yabloninbetween.jpg")
+	background-image: url("../img/header-yabloninbetween.jpg");
 }
 
 #devilishwishes-contents {
-	background-image: url("../img/header-devilishwishes.jpg")
+	background-image: url("../img/header-devilishwishes.jpg");
 }
 
 #whoknowswhereshesfrom-contents {
-	background-image: url("../img/header-whoknowswhereshesfrom.jpg")
+	background-image: url("../img/header-whoknowswhereshesfrom.jpg");
 }
 
 #thecannolicatastrophe-contents {
-	background-image: url("../img/header-thecannolicatastrophe.jpg")
+	background-image: url("../img/header-thecannolicatastrophe.jpg");
+}
+
+#blacklake-contents {
+	background-image: url("../img/header-blacklake.jpg");
 }
 hr {
 	clear: both;
@@ -347,7 +383,7 @@ hr {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	fill: #fff;
+	fill: #ab2c2d;
 	@include breakpoint($large-screen) {
 		width: $base-spacing * 15;
 	}
@@ -356,10 +392,61 @@ hr {
 .issue-date {
 	font-family: $heading-font-family;
 	font-size: $base-font-size * 1.5;
-	color: $article-heading-color;
+	color: #ab2c2d;
 	text-align: center;
 }
 
 .subtitle {
 	font-family: $heading-font-family;
+}
+
+/*Yablon styling*/
+#yablon-content p,
+#yablon-content h2 {
+	border-left: 4px solid #ab2c2d;
+	padding-left: $small-spacing / 2;
+}
+
+#yablon-content h2 {
+	color: #ab2c2d;
+}
+
+#yablon-content h2:nth-child(5),
+#yablon-content p:nth-child(n+5):nth-child(-n+9) {
+	border-right: 4px solid black;
+	padding-right: $small-spacing / 2;
+	text-align: right;
+	border-left: none;
+	color: $base-font-color;
+}
+
+#yablon-content {
+	padding-bottom: $base-spacing;
+}
+
+.carousel-container {
+		width: 50%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: $base-spacing;
+
+}
+
+.carousel-item {
+	height: $base-spacing * 5;
+	background-size: cover;
+}
+
+.home-article-title {
+	color: white;
+	text-align: center;
+	font-size: 10vh;
+}
+
+.home-wrapper {
+	padding-top: $base-spacing;
+}
+
+.letter-editor {
+	margin-bottom: $small-spacing;
 }

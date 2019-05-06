@@ -35,7 +35,9 @@ Cohen, Jeffrey Jerome. “The Ruins of Identity.” Of Giants: Sex, Monsters, an
 Gardner, John. Grendel. New York, NY: Random House, Inc., 1989. Print
 
 Mittman, Asa Simon. Inconceivable Beasts: Then Wonders of the East in the Beowulf Manuscript. Tempe, Arizona: Arizona Center for Medieval and Renaissance Studies, 2013. Print.
+
 Mittman, Asa Simon. “Monsters and the Exotic in Early Medieval England.” Literature Compass, Vol. 6, Issue 2, 2009, pp. 332-348. Web. Accessed 7 December 2017.
+
 Orchard, Andy. Pride and Prodigies: Studies in the Monsters of the Beowulf-Manuscript. Cambridge, England: D.S. Brewer, 1995.  Print.
 
 Rauer, Christine. Beowulf and the Dragon: Parallels and Analogues. Cambridge, England: D.S. Brewer, 2000. Print.

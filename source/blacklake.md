@@ -4,8 +4,6 @@ author: Jaslynn Martinez
 headerimage: img/header-blacklake.jpg
 accenttext: I'm alone with my thoughts at all waking hours of the day, and I often wonder if I made the right decision to flee.
 layout: article
-fontlink: https://fonts.googleapis.com/css?family=Rock+Salt
-fontfamily: 'Rock Salt', cursive
 ---
 ## October 3, 1998
 I am finally in a safe place to write. This morning I was ripped from the comfort of my bed by my elder sister, tears streaming down her blackened cheeks. She told me that my parents had been slain, and that the village was under attack. I heard heavy footsteps outside our hut, as if people were marching in unison, weighed down by their armor. I stood, motionless, my heart pounding in my ears. *Is this really happening?* I thought to myself. My sister shook me violently, trying to snap me out of my shocked state. “Do you hear me? *Run!*” She yanked my arm and pushed me out the door with all her might.
@@ -37,7 +35,7 @@ Eventually, I arrived at a still lake, which I stopped to rest at. My legs were 
 
 At one point, I began to hear what sounded like a rattling. I was unsure of the direction, and my heart rate spiked with alarm. My body was telling me to flee. Suddenly, a three-headed snake slithered across from me on the other side of the mysterious blue lake. Mist circled around its elongated body, and the three heads stared intently at me, their black tongues forking from their mouths. The head to the right opened its mouth, revealing its long, pointed fangs, and from a small hole in the back of its mouth, it shot out a black sludge. The sludge plunged into the still water, and it immediately changed the crystal blue color to black. *You left your family behind.* A voice hissed in my head. *You're a coward.*
 
-I knelt there, motionless and unblinking. Suddenly the sun rose. Where had the time gone? The left head on the snake began to move next, and it turned its entire body so that I could peer into its ruby red eye. We stared at one another for what seemed like and eternity. Eventually, the black water began to bubble and the snake plunged into it, disappearing beneath.
+I knelt there, motionless and unblinking. Suddenly the sun rose. Where had the time gone? The left head on the snake began to move next, and it turned its entire body so that I could peer into its ruby red eye. We stared at one another for what seemed like an eternity. Eventually, the black water began to bubble and the snake plunged into it, disappearing beneath.
 
 Many hours had passed once again, and I could feel my energy depleting more and more. Eventually my body stopped shaking, and I slouched further and further downwards, the dirt waiting to engulf me. Eventually I lay on my side next to the lake, which was still as dark as night. Morning turned to afternoon, then afternoon to night. Another creature emerged from the confines of the woods. With every step it took, the earth beneath me rumbled angrily. After stomping its way towards the water, it dipped its head down and began to lap up the toxic liquid. It had two extremely long horns that stretched on either side of its blocky head. After lapping up the black water for a few minutes, it looked up at me with a single, deep brown eye. The other was completely shut, a large scar stretching over it.
 

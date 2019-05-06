@@ -4,8 +4,6 @@ author: Emilyann Thompson
 headerimage: img/header-thecontentofmyskin.jpg
 accenttext: I believe that my black is beautiful and I will take it day by day until I can truly live what I believe.
 layout: article
-fontlink: https://fonts.googleapis.com/css?family=Gloria+Hallelujah
-fontfamily: 'Gloria Hallelujah', cursive
 ---
 I always thought my skin was too dark. Well actually not always. I did not think I was  too dark until about middle school when a little boy asked if my mom had left me in the oven for too long. It’s okay, you can laugh. For a while I did too. You see, everything is funny when everyone is laughing, but things seemingly became a lot less funny when I was alone.  I was left with just me, and my reflection.
 
@@ -23,6 +21,7 @@ I preceded to cackle from a joke that was made following a funny meme my friend 
 
 *“Yo you sound White as hell”*
 *“Huh?”*  
+
 Confused, all I could do was let out a stiff laugh to clear the air of awkwardness.
 
 But to my surprise, as soon as he said that, all my friends joined in agreement. They began to declare their reasons for why the way I laughed, talked, and carried myself was as of another race other than my own. The years of high school I spent attempting to embrace my “Black culture” seemed to fade away in that distinct moment. I traded my Converses in for Timbs back in my sophomore year, embracing the burden of my skin that everyone around me seemed to think I had.
@@ -31,7 +30,7 @@ But to my surprise, as soon as he said that, all my friends joined in agreement.
  I had cracked. Hiding my exterior self seemed to awaken me more within. Now I'm being told that, although I look Black, I don’t sound it. I went from being too black to not being Black enough. It felt like i was climbing this huge mountain and when I finally reached the pinnacle,  just when I just started to feel the breeze and see the beauty of all that was around me, I would reach up to grab that last bit of rock and would stretch, and stretch, but still couldn't reach it.
  Fast forward to college.
 
-You see, i wish I could give you a Disney ending, or that i've found, the potion, or antidote for my disease. That the solution to my problem was in a book or online. I wish I could tell you that one day all of my insecurities vanished and that I was made whole, but this is a mountain that I am still climbing.
+You see, I wish I could give you a Disney ending, or that I've found, the potion, or antidote for my disease. That the solution to my problem was in a book or online. I wish I could tell you that one day all of my insecurities vanished and that I was made whole, but this is a mountain that I am still climbing.
 
 I now understand that the power of who I am lies not within others, but within who I say I am. My experiences can now encourage or relate to someone else, and to me,  that's the most significant solution there is. I can tell a little Black girl, or boy, who's facing similar discrepancies, that when they look in the mirror they have the ability to see themselves as  THEY would want and not how others perceive them as.
 
